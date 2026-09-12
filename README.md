@@ -1,17 +1,48 @@
-# employee
+# StaffHub - Employee Management System
 
-A new Flutter project.
+StaffHub is a simplified workflow prototype built with Flutter to showcase modern mobile application architectures, including form handling, validation, runtime state passing, and multi-layered screen routing.
 
-## Getting Started
+## 🌟 Features
 
-This project is a starting point for a Flutter application.
+- **Splash Screen**: Professional entrance with app branding.
+- **Secure-look Login**: User authentication interface.
+- **Employee Registration**: Comprehensive form with multi-type field validation (ID, Email, Phone, etc.).
+- **Confirmation Flow**: Verification screen to review details before profile creation.
+- **Staff Profiles**: Interactive display of employee details.
+- **Warm Theme**: Customized Material 3 design featuring a warm `Deep Orange` color scheme.
+- **Clean Architecture**: Decoupled models and screens for easy maintainability.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎨 Visual Identity
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+The application uses a warm, energetic color palette:
+- **Primary Color**: Deep Orange
+- **Secondary Color**: Orange Accent
+- **Design System**: Material 3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) - The UI framework.
+- [Dart](https://dart.dev/) - The programming language.
+
+## 🚀 Getting Started
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ChrisEjore/Employee.git
+   ```
+2. **Install dependencies**:
+   ```bash
+   flutter pub get
+   ```
+3. **Run the app**:
+   ```bash
+   flutter run
+   ```
+
+## 👨‍💻 Developer
+
+**Chris Ejore**
+*StaffHub Prototype v1.0.0*
+
+---
+© 2026 StaffHub Inc. All rights reserved.
